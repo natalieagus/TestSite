@@ -10,7 +10,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/languages/lang-image-zh-hans.jpg
+    src: /assets/images/languages/lang-image-zh-hans.jpg
 ---
 
 简体中文。

@@ -10,7 +10,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/languages/lang-image-zh-hant.jpg
+    src: /assets/images/languages/lang-image-zh-hant.jpg
 ---
 
 繁體中文。
