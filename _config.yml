@@ -196,6 +196,7 @@ collections:
     output: true
   notes:
     output: true
+
 ## => Plugins
 ##############################
 plugins:
