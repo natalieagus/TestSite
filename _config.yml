@@ -126,6 +126,7 @@ defaults:
   ## home
   - scope:
       path: ""
+      type: posts
     values:
       layout: article
       # sidebar:
